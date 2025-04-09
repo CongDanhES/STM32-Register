@@ -1,3 +1,6 @@
 ../Core/myLib/UART.c:10:6:USART1_Init	1
-../Core/myLib/UART.c:34:6:USART1_Transmit	4
-../Core/myLib/UART.c:44:6:USART1_Receive	3
+../Core/myLib/UART.c:26:6:USART1_Transmit	4
+../Core/myLib/UART.c:36:6:USART1_Receive	3
+../Core/myLib/UART.c:45:6:USART2_Init	1
+../Core/myLib/UART.c:60:6:USART2_Transmit	4
+../Core/myLib/UART.c:70:6:USART2_Receive	3

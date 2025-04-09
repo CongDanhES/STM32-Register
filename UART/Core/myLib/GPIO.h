@@ -20,6 +20,7 @@ typedef struct{
 #define GPIOA_BASE          0x40020000
 #define GPIOA               ((myGPIO*) GPIOA_BASE)
 
-void GPIO_UART1_Setup();
+void GPIO_UART1_SETUP();
+void GPIO_UART2_SETUP();
 
 #endif // GPIO_HPP

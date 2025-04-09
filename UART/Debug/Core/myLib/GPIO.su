@@ -1,1 +1,2 @@
-../Core/myLib/GPIO.c:3:6:GPIO_UART1_Setup	4	static
+../Core/myLib/GPIO.c:3:6:GPIO_UART1_SETUP	4	static
+../Core/myLib/GPIO.c:23:6:GPIO_UART2_SETUP	4	static

@@ -1,1 +1,2 @@
-../Core/myLib/GPIO.c:3:6:GPIO_UART1_Setup	1
+../Core/myLib/GPIO.c:3:6:GPIO_UART1_SETUP	1
+../Core/myLib/GPIO.c:23:6:GPIO_UART2_SETUP	1
