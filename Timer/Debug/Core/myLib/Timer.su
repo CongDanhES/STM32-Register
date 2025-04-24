@@ -1,0 +1,2 @@
+../Core/myLib/Timer.c:10:6:TIM1_PWM	4	static
+../Core/myLib/Timer.c:39:6:TIM2_INPUTCAPTURE	8	static

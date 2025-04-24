@@ -1,0 +1,2 @@
+../Core/myLib/GPIO.c:10:6:TIM1_GPIO_SETUP	4	static
+../Core/myLib/GPIO.c:19:6:TIM2_GPIO_SETUP	4	static
