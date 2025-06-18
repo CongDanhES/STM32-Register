@@ -1,0 +1,6 @@
+../Core/Src/Flash.c:4:10:GetSector	16	static
+../Core/Src/Flash.c:17:6:Flash_Unlock	4	static
+../Core/Src/Flash.c:26:6:Flash_Lock	4	static
+../Core/Src/Flash.c:31:6:Flash_SectorErase	24	static
+../Core/Src/Flash.c:50:6:Flash_WriteWord	16	static
+../Core/Src/Flash.c:68:6:Flash_Write_Data	32	static
